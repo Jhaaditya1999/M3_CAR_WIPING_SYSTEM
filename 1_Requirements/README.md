@@ -35,7 +35,21 @@ uniform pressure on the blade. Here we are going to show the wiper control syste
 3)In cities like Delhi and Chennai,which witnesses heavy rainfalls,windshiled wipers are highly essential.
 4)Almost all motor vehicles,including cars,trucks,etc.are equipped with wipers and are very important for clear vision.
 5)During the rainy season,water droplets on the windshiled continuously distrub the visiblity of the the drive that can lead to major accidents.
-## REQUIREMENTS 
+# REQUIREMENTS 
+## High level requirements
+|ID|	Discription	|status|
+|--|--------------|------|
+|HR_01|	Car is in ACC mode	|Implemented|
+|HR_02	|Car is in Ignition mode|	Implemented|
+|HR_03|	Wiper turned on|	Implemented|
+|HR_04	|Wiper turned off	|Implemented|
+## Low level requirements
+|ID	|Discription|	status|
+|---|-----------|-------|
+|LR_01	|Button pressed ONCE for two seconds - ON LED RED	|Implemented|
+|LR_02	|Button pressed once again times - OFF LED RED|	Implemented|
+|LR_03	|Button pressed two time - ON BLUE,GREEN,ORANGE|	Implemented|
+|LR_04	|Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE	|Implemented|
 
 ## SWOT ANALYSIS
 ### Strengths
