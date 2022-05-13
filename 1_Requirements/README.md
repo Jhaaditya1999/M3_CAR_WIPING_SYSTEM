@@ -21,6 +21,14 @@ Now that you hopefully understand how the car wiper works, along with its compon
 as possible and be diligent in cleaning it!
 Wiper blade Blade is a rubber part that comes in contact with glass It also has a metal clamping attached to it which aids in maintaining
 uniform pressure on the blade. Here we are going to show the wiper control system in microcontroller.
+### WORKING PROCESS
+- When the button is pressed ONCE, the car will be on ACC mode.
+
+- When the button is pressed TWICE, the car will be on Ignition mode.
+
+- When the button is pressed THREE times, wiper turn on.
+
+- When the button is pressed FOUR times, wiper turn off.
 ## IMPORTANT OF WIPER SYSTEM IN CAR
 1)For saftey on the road windshiled glass is the most critical part
 2)But when it comes to the varying weather conditions,windshiled wipers are considerd to be the saviour.
@@ -28,16 +36,7 @@ uniform pressure on the blade. Here we are going to show the wiper control syste
 4)Almost all motor vehicles,including cars,trucks,etc.are equipped with wipers and are very important for clear vision.
 5)During the rainy season,water droplets on the windshiled continuously distrub the visiblity of the the drive that can lead to major accidents.
 ## REQUIREMENTS 
-### High Level Requirements 
-|ID|Description|Status|
-|--|-----------|------|
-|HLR1|Press ignition key to start|Implemented|
-|HLR2|Set the frequency(1,4,8)|implemented|
-|HLR3|Press key postion at lock |implemented|
-## Low Level Requirements
-|ID|Description|HLR|Status|
-|--|-----------|---|------|
-|LLR1|Press ignition key held 2 sec|HLR1|Implemented|
+
 ## SWOT ANALYSIS
 ### Strengths
 - Simple device for cleaning car front windshield
