@@ -1,2 +1,12 @@
 # M3_WIPER_CONTROL_SYSTEM
 I would like to point out that, despite the fact that practically everything about this design has previously been defined, there are still several types of enhancements that may be implemented to make it even more convenient. In terms of efficiency and cost effectiveness, the project that we have developed and presented is pretty effective. In comparison to the optical sensor, it has significant advantages in that it can accommodate all of the design parameters as well as the needs of the average person. This project can benefit from the addition of a speed-controlling mechanism, which will allow it to operate in accordance with the intensity and speed of the water flowing through the sensor. The fundamental manoeuvring is done merely to make it more cost-effective and reliable in the long run. The idea i have been implemented is completly in working condition these can be used in any type of cars.We can also make this wiper system automatic by adding sensors for rain water falling on the wind shiled,dust resistance sensor,etc.So,there is no need to control the wiper system manually while driving the car.It can be more convinient we add the additional features to the wiper system and it can be done in near future.People around the world still working on this project so that we can make a system that works requires less human intervention.
+## Folder Structure
+|Folder|Description|
+|------|-----------|
+|0_Abstract|	about project|
+|1_Requirements|	Documents detailing requirements and research|
+|2_Architecture	|Documents specifying design details|
+|3_Implementation	|All code and documentation|
+|4_TestCases|	Documents with test plans and procedures|
+|5_Report|	Documentation of the whole Project|
+|6_Output|	Output of the Project|
