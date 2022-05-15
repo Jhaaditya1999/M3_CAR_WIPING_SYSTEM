@@ -35,6 +35,31 @@ uniform pressure on the blade. Here we are going to show the wiper control syste
 3)In cities like Delhi and Chennai,which witnesses heavy rainfalls,windshiled wipers are highly essential.
 4)Almost all motor vehicles,including cars,trucks,etc.are equipped with wipers and are very important for clear vision.
 5)During the rainy season,water droplets on the windshiled continuously distrub the visiblity of the the drive that can lead to major accidents.
+# REQUIREMENTS FOR THE PROJECTS ARE :
+### STM32Cube IDE :
+- STM32Cube software ecosystem. STM32CubeIDE is an advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32 microcontrollers and microprocessors. It is based on the Eclipse®/CDT™ framework and GCC toolchain for the development, and GDB for the debugging. It allows the integration of the hundreds of existing plugins that complete the features of the Eclipse® IDE.
+## Xpack Packages :
+### Windows Build Tools:
+The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
+### OpenOCD :
+Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. The adapter is a hardware module that provides the right signals for the target to understand.
+### QEMU :
+The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices.
+## COMPONENTS USED IN PROJECT:
+### STM32F407G-DISC1
+STM32F407 series of microcontrollers are high-performance MCUs designed for medical, industrial and consumer applications. It is based on ARM Cortex-M4 and offers up to 168MHz. The STM32F407VGT6 is the onboard chip which comes in a 100-pin LQFP package.
+
+The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applications with the STM32F407 high performance microcontrollers with ARM cortex-M4 32-bit core. It includes everything required either for beginners or for experienced users to get quickly started. Based on the STM32F407VGT6, it includes an ST-LINK/V2 or ST-LINK/V2-A embedded debug tool, two ST MEMS digital accelerometers, a digital microphone, one audio DAC with integrated class D speaker driver, LEDs and push buttons and an USB OTG micro-AB connector.
+
+### Features Of STM32F407G
+- Flash memory of up to 1 megabyte.
+- OTP memory of 512 bytes.
+- Compact Flash, SRAM, PSRAM, NOR, and NAND memories are supported by this flexible static memory controller.
+- Sleep, Stop, and Standby modes are low-power modes.
+- 16-stream DMA controller with FIFOs and burst support for general-purpose DMA.
+- Up to 54 Mbytes/s 8- to 14-bit parallel camera interface.
+- Generator of true random numbers.
+- Hardware calendar, CRC calculating unit, 96-bit unique ID RTC, subsecond accuracy.
 # REQUIREMENTS 
 ## High level requirements
 |ID|	Discription	|status|
