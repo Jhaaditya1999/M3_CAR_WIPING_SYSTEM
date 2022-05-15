@@ -4,3 +4,6 @@
 ![car wiper](https://user-images.githubusercontent.com/101171908/168108063-7973958b-46cd-40f5-89a8-f6717c1fc232.gif)
 ## Structural diagram of the wiper system
 ![image](https://user-images.githubusercontent.com/101171908/168110541-5c537b1f-976f-443e-8716-b622fb7ea20f.png)
+## Block Diagram:
+![image](https://user-images.githubusercontent.com/101171908/168485768-fb62031d-1e3e-4167-b775-64e0afba36eb.png)
+
