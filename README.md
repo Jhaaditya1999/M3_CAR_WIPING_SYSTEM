@@ -8,6 +8,8 @@ Wipers are designed and manufactured to remove water from a windshield. Most aut
 ![Code Quality Score](https://api.codiga.io/project/33373/score/svg)
 ### Code Grade
 ![Code Grade](https://api.codiga.io/project/33373/status/svg)
+### Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fc6c327e5b6f41adadab7485e92f8283)](https://www.codacy.com/gh/Jhaaditya1999/M3_CAR_WIPING_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jhaaditya1999/M3_CAR_WIPING_SYSTEM&amp;utm_campaign=Badge_Grade)
 ## INTRODUCTION
 This Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain.
 
